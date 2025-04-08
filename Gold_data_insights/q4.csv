@@ -1,0 +1,17 @@
+Country,Quarter,Demand
+India,Q1_22,135.5
+India,Q2_22,170.7
+India,Q3_22,191.7
+India,Q4_22,276.3
+India,Q1_23,126.3
+India,Q2_23,158.1
+India,Q3_23,210.2
+India,Q4_23,266.2
+China,Q1_22,234.9
+China,Q2_22,148.4
+China,Q3_22,242.7
+China,Q4_22,199
+China,Q1_23,273.9
+China,Q2_23,191.9
+China,Q3_23,247.4
+China,Q4_23,245.9
