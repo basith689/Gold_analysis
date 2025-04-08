@@ -1,5 +1,7 @@
-**📊 Gold Price Visualization Dashboard – Power BI
-**Overview
+**📊 Gold Price Visualization Dashboard – Power BI**
+
+**Overview**
+
 This project provides a compact yet insightful Power BI dashboard focused on Gold Price Trends. It offers a visual representation of gold-related data that can be useful for financial analysts, traders, or enthusiasts interested in tracking changes and patterns in gold value.
 
 Features
